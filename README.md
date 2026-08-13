@@ -1,4 +1,4 @@
-# Brazilian-E_Commerce
+Brazilian Olist E-Commerce Analysis
 Project Overview
 This project analyzes the Brazilian Olist E-Commerce dataset using Microsoft Excel to uncover sales, customer, and logistics insights.
 
