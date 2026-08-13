@@ -1,5 +1,4 @@
 # Brazilian-E_Commerce
-Brazilian Olist E-Commerce Analysis
 Project Overview
 This project analyzes the Brazilian Olist E-Commerce dataset using Microsoft Excel to uncover sales, customer, and logistics insights.
 
@@ -30,4 +29,4 @@ Dashboard Icons
 Executive Presentation & Insights
 README
 Dataset
-The original dataset is available on Kaggle (not included due to file size limitations)
+The original dataset is available on Kaggle (not included due to file size limitations).
